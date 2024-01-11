@@ -1,4 +1,4 @@
-# bigbob
+# bigbob🥶💯
 A chat client built on top of my tokenizer, toky with the help of python in the mix for gathering web results.
 
 ## Now how does it work?
