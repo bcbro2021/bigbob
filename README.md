@@ -13,7 +13,7 @@ This is the responses i got for my questions.
 ```sh
 >who are you?
 
-I am a simple nlp testing agent created with nothing but the standard library and a tokenizer also built from scratch in rust
+A chat client built on top of a tokenizer, toky with the help of python in the mix for gathering web results.
 
 >what is your name?
 
