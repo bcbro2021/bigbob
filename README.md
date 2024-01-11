@@ -22,12 +22,12 @@ Big Bob
 >github 
 
 
-GitHub: Let's build from here · GitHub : https://github.com/
-GitHub : https://en.wikipedia.org/wiki/GitHub
-What Is GitHub? A Beginner's Introduction to GitHub : https://kinsta.com/knowledgebase/what-is-github/
-What Is GitHub? | Definition from TechTarget : https://www.techtarget.com/searchitoperations/definition/GitHub
-GitHub - Apps on Google Play : https://play.google.com/store/apps/details?id=com.github.android&hl=en&gl=US
-The GitHub Blog - Updates, ideas, and inspiration from GitHub ... : https://github.blog/
+GitHub: Let's build from here · GitHub : https://github.com/\n
+GitHub : https://en.wikipedia.org/wiki/GitHub\n
+What Is GitHub? A Beginner's Introduction to GitHub : https://kinsta.com/knowledgebase/what-is-github/\n
+What Is GitHub? | Definition from TechTarget : https://www.techtarget.com/searchitoperations/definition/GitHub\n
+GitHub - Apps on Google Play : https://play.google.com/store/apps/details?id=com.github.android&hl=en&gl=US\n
+The GitHub Blog - Updates, ideas, and inspiration from GitHub ... : https://github.blog/\n
 
 ```
 
