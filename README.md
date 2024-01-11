@@ -10,7 +10,7 @@ and gets you a response.
 ## Let's try it
 This is the responses i got for my questions.
 
-```sh
+```
 >who are you?
 
 A chat client built on top of a tokenizer, toky with the help of python in the mix for gathering web results.
